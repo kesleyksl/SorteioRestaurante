@@ -1,0 +1,33 @@
+.cardInputs{
+    width: 60%;
+    margin: 0 auto;
+    top: 30px;
+    margin-bottom: 41px;
+}
+.resultado{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.inputRestaurante{
+    width: 80%;
+    margin: 0 auto;    
+}
+  
+
+  mat-card-content{
+      margin: 0 auto;
+  }
+
+  mat-card-content, mat-card-actions{
+      margin: 0 16px;
+  }
+
+  .card{
+      height: 35%;
+  }
+
+  mat-spinner{
+    margin: 0 auto;    
+}
